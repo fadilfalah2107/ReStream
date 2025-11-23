@@ -1,0 +1,4 @@
+project_id = "ycpwmcbdfbiduygrodkt"
+
+[functions.stream-signaling]
+verify_jwt = false
