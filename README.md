@@ -55,7 +55,7 @@ Nikmati StreamVerse secara langsung:
 
 1. Clone repository:
 ```bash
-git clone https://github.com/nama-username-anda/streamverse.git
+git clone https://github.com/fadilfalah2107/streamverse.git
 cd streamverse
 ```
 
@@ -88,7 +88,7 @@ bun dev
 npm run dev
 ```
 
-Buka [http://localhost:5173](http://localhost:5173) di browser Anda untuk melihat aplikasi.
+Buka [http://localhost:5173](http://localhost:8080) di browser Anda untuk melihat aplikasi.
 
 ### Build
 
